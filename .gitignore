@@ -2,3 +2,4 @@
 # Ignore model weights
 gemma3n_model/
 gemma3n_processor/
+image.png
